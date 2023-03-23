@@ -4,7 +4,7 @@
  * main _Entry point of my code,
  * Description: 'prints -putchar to stdout'
  * Return: Always 0
- * */
+ */
 
 int main(void)
 {       
